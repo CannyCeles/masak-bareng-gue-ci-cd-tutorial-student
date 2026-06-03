@@ -18,7 +18,7 @@ Cek code quality dengan flake8
         ↓
 Kalau semua hijau → app otomatis deploy ke internet
         ↓
-Buka URL → Masak Apa Nih? live dan bisa diakses siapapun
+Buka URL → Masak Bareng Gue live dan bisa diakses siapapun
 ```
 
 Semua terjadi otomatis. Kamu tidak perlu deploy manual sama sekali.
